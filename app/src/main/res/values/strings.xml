@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Modul7 Aktifitas Latihan</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_signin">Sign-In</string>
+    <string name="label_login">Login</string>
+    <string name="label_logout">Logout</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="exit">Exit without logout</string>
+</resources>
